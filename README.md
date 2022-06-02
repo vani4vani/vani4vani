@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vani
-- 👀 I’m interested in - data science, software developer
-- 🌱 Technical Skills - machine learning, deep learning models, SQL, python programming, Django web frameworks, computer vision
+- 👀 I’m interested in - data science, software developement
+- 🌱 Technical Skills - machine learning models, deep learning models, SQL, python programming, django web frameworks, computer vision
 - 💞️ I’m looking to collaborate on - machine learning projects
 - 📫 How to reach me - bhattvani91@gmail.com
 
